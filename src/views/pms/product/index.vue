@@ -597,7 +597,6 @@
       },
       handleShowLog(index,row){
         console.log("handleShowLog",row);
-        // 
       },
       updatePublishStatus(publishStatus, ids) {
         let params = new URLSearchParams();
